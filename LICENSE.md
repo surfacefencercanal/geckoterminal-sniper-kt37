@@ -1,4 +1,4 @@
-# 
+# high-frequency Liquidity Bot for geckoterminal sniper bot | pump-detection & auto-buy is the best geckoterminal sniper bot, featuring pump-detection and auto-buy. Fast, smart, and
 
 
 
